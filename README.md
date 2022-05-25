@@ -5,5 +5,5 @@ Web ini masih banyak kekurangan  ^^
 
 disini saya menggunakan :
 - HTML
-- CSS
+- CSS 3
 - JS scroll Animate dari ( Aos - Animate on scroll Library )
